@@ -1,0 +1,31 @@
+NAME : lu980
+COMMENT : 980 locations in Luxembourg
+COMMENT : Derived from National Imagery and Mapping Agency data
+COMMENT : Cut down from 980 to 15
+TYPE : KP
+DIMENSION : 22
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+map 9 150
+compass 13 35
+water 153 200
+sandwich 50 160
+glucose 15 60
+tin 68 45
+banana 27 60
+apple 39 40
+cheese 23 30
+beer 52 10
+suntan-cream 11 70
+camera 32 30
+t-shirt 24 15
+trousers 48 10
+umbrella 73 40
+waterproof-trousers 42 70
+waterproof-overclothes 43 75
+note-case 22 80
+sunglasses 7 20
+towel 18 12
+socks 4 50
+book 30 1
+EOF
